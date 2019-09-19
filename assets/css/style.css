@@ -492,7 +492,7 @@ h1 span{
   align-items: center;
 }
 .secTwoGridContainer{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 70.6821vw;
   height: 45.96vw;
   margin-top: 2.66734vw;
@@ -502,15 +502,7 @@ h1 span{
   grid-gap: 2.66734vw;
 }
 
-.secTwoGridBox{
-cursor: pointer;
-  border: 1px solid green;
-  position: relative;
-  overflow: hidden;
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-}
+.secTwoGridBox{cursor: pointer;/* border: 1px solid green; */position: relative;overflow: hidden;/* display: flex; *//* align-items: center; *//* justify-content: center; */}
 .secTwoGridBox img{
   width: 100%;
   /* height: 100%; */
